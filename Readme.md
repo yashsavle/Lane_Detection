@@ -11,5 +11,7 @@ In this Project I have designed a program to enhance the video quality during ni
 Run the .py files individually through terminal, and ouput video file will be created.
 
 ## Outputs 
-![](v1.gif)
-![](o1.gif)
+<div align="center">
+  <img src='https://github.com/yashsavle/Lane_Detection/blob/master/v1.gif'>
+  <img src='https://github.com/yashsavle/Lane_Detection/blob/master/o1.gif'>
+</div>
