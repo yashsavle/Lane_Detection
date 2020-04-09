@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Mar  1 21:46:34 2020
-
-@author: prana
-"""
-
 import cv2 
 import numpy as np
 import argparse
